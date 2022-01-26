@@ -1,3 +1,3 @@
-- 👋 Hi, I’m @AMSANJI-WORK
+- 👋 Hi, I’m amir mohammad sanji
 - 👀 I’m interested in vuejs
 - 🌱 I’m currently learning nodejs , mongodb
