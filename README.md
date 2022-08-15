@@ -1,3 +1,3 @@
 - 👋 Hi, I’m amir mohammad sanji
-- 👀 I’m interested in vuejs
-- 🌱 I’m currently learning nodejs , mongodb
+- 👀 I’m interested in vuejs ,vuejs 3, vue-typesript , vuetify , pinia , vuex , vue-router 
+- 🌱 I’m currently learning monorepo , nestjs
