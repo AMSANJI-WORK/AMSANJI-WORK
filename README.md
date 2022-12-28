@@ -1,4 +1,4 @@
 - 👋 Hi, I’m amir mohammad sanji
-- 👀 I’m interested in vuejs 2 , vuejs 3 ,vuex, pinia , monorepos , vuetify , tailwindCss , unit test , modular architecture
+- 👀 I’m interested in vuejs 2 , vuejs 3 , nuxt 2 , gridsome , qraphqul , vuex, pinia , monorepos , vuetify , tailwindCss , unit test , modular architecture
 - 🌱 I’m had experince with module federarion and single-spa
 - 🌱 I’m currently learning reactjs and redux
