@@ -1,3 +1,4 @@
 - 👋 Hi, I’m amir mohammad sanji
-- 👀 I’m interested in vuejs ,vuex , monorepos 
-- 🌱 I’m currently learning react
+- 👀 I’m interested in vuejs 2 , vuejs3 ,vuex, pinia , monorepos , vuetify , unit test , modular architecture
+- 🌱 I’m had experince with module federarion and single-spa
+- 🌱 I’m currently learning reactjs and redux
